@@ -1,4 +1,4 @@
- # WS-011: Windows Server 2019 Administration
+ # WS-011: Windows Server Administration
 
 - **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
